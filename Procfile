@@ -1,1 +1,0 @@
-web: docker run -p 80:$PORT api_test
