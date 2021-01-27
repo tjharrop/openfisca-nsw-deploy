@@ -1,3 +1,3 @@
 build:
   docker:
-    web: openfisca_nsw_api.Dockerfile
+    web: Dockerfile
