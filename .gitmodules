@@ -6,7 +6,7 @@
 	url = https://github.com/Openfisca-NSW/openfisca_nsw_API.git
 [submodule "openfisca_nsw_base"]
 	path = openfisca_nsw_base
-	url = https://github.com/Openfisca-NSW/openfisca_nsw_base.git
+	url = https://github.com/tjharrop/openfisca_nsw_base.git
 [submodule "openfisca_nsw_community_gaming"]
 	path = openfisca_nsw_community_gaming
 	url = https://github.com/Openfisca-NSW/openfisca_nsw_community_gaming.git
