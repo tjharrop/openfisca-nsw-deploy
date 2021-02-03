@@ -1,3 +1,5 @@
 build:
   docker:
-    web: Dockerfile
+    web: openfisca_nsw_api.Dockerfile
+run:
+  web: entrypoint.sh
